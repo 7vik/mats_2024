@@ -1,6 +1,7 @@
 # data
 information_theory/data/*
 information_theory/MNIST/*
+*.hf
 
 # model checkpoints
 *.pth
