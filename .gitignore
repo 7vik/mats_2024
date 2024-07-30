@@ -6,6 +6,9 @@ information_theory/MNIST/*
 # model checkpoints
 *.pth
 
+# stored pt
+*.pt
+
 # pickle files
 *.pkl
 
