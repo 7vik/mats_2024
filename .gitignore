@@ -3,6 +3,9 @@ information_theory/data/*
 information_theory/MNIST/*
 *.hf
 
+*/cifar-10-batches-py/*
+cifar-10-batches-py/*
+
 # model checkpoints
 *.pth
 
