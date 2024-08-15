@@ -2,6 +2,12 @@
 information_theory/data/*
 information_theory/MNIST/*
 *.hf
+*/MNIST/*
+*/MNIST/*/*
+*/MNIST/*/*/*
+*/*/MNIST/*
+*/*/cifar-10-batches-py/
+*/*/cifar-10-batches-py/*
 
 */cifar-10-batches-py/*
 cifar-10-batches-py/*
